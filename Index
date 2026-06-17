@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>RR Infinite Music Labs LLC</title>
+  <meta name="description" content="RR Infinite Music Labs LLC specializes in music production, audio engineering, AI-powered creative solutions, video production, DJ entertainment, artist development, and innovative digital content." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+<header class="site-header">
+  <div class="logo-area">
+    <img src="logo.png" alt="RR Infinite Music Labs LLC Logo" class="logo" />
+  </div>
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#services">Services</a>
+    <a href="#portfolio">Portfolio</a>
+    <a href="#contact">Contact</a>
+  </nav>
+</header>
+
+<section id="home" class="hero">
+  <div class="hero-content">
+    <p class="eyebrow">Music • Technology • Innovation</p>
+    <h1>Exploring the Infinite Possibilities of Music</h1>
+    <p class="hero-text">
+      RR Infinite Music Labs LLC blends music production, audio engineering,
+      AI-powered creative workflows, visual media, and entertainment services
+      into one forward-thinking creative lab.
+    </p>
+    <div class="hero-buttons">
+      <a href="#services" class="btn primary">Explore Services</a>
+      <a href="#contact" class="btn secondary">Start Your Project</a>
+    </div>
+  </div>
+</section>
+
+<section id="about" class="section">
+  <h2>Welcome to the Lab</h2>
+  <p>
+    RR Infinite Music Labs LLC was created to bring together creativity,
+    technology, sound, and vision. Our mission is to help artists, creators,
+    businesses, and audiences experience music in powerful new ways.
+  </p>
+  <p>
+    From original music and professional audio work to AI-assisted creative
+    development and visual content, every project is approached with precision,
+    passion, and imagination.
+  </p>
+</section>
+
+<section id="services" class="section dark-card-section">
+  <h2>Core Services</h2>
+  <div class="cards">
+    <div class="card">
+      <h3>Music Production</h3>
+      <p>Original songs, instrumentals, arrangements, creative direction, and full production support.</p>
+    </div>
+    <div class="card">
+      <h3>Audio Engineering</h3>
+      <p>Mixing, mastering, audio cleanup, restoration, enhancement, and release-ready sound.</p>
+    </div>
+    <div class="card">
+      <h3>AI Creative Solutions</h3>
+      <p>AI-assisted music workflows, prompt development, creative testing, and content ideation.</p>
+    </div>
+    <div class="card">
+      <h3>Video & Visual Media</h3>
+      <p>Promotional videos, music visuals, branded content, and digital storytelling.</p>
+    </div>
+    <div class="card">
+      <h3>DJ Entertainment</h3>
+      <p>Professional DJ services, music programming, and entertainment for special events.</p>
+    </div>
+    <div class="card">
+      <h3>Artist Development</h3>
+      <p>Brand strategy, creative consulting, digital presence, and project development guidance.</p>
+    </div>
+  </div>
+</section>
+
+<section id="portfolio" class="section">
+  <h2>Featured Projects</h2>
+  <p>
+    This section will showcase selected music productions, videos, AI-assisted
+    creative projects, DJ work, promotional campaigns, and future releases.
+  </p>
+  <div class="placeholder-box">Portfolio content coming soon.</div>
+</section>
+
+<section class="section cta">
+  <h2>Ready to Create Something Extraordinary?</h2>
+  <p>
+    Whether you are developing a song, building a brand, creating content,
+    or exploring new possibilities through music technology, RR Infinite Music Labs LLC is ready.
+  </p>
+  <a href="#contact" class="btn primary">Contact Us</a>
+</section>
+
+<section id="contact" class="section contact">
+  <h2>Contact</h2>
+  <p>Use this area for your business email, phone number, and social media links.</p>
+  <div class="contact-box">
+    <p><strong>Email:</strong> your-email@example.com</p>
+    <p><strong>Phone:</strong> your phone number</p>
+    <p><strong>Social:</strong> Facebook • Instagram • TikTok • YouTube • X</p>
+  </div>
+</section>
+
+<footer>
+  <p>RR Infinite Music Labs LLC</p>
+  <p>Exploring the Infinite Possibilities of Music.</p>
+  <p>© 2026 RR Infinite Music Labs LLC. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
